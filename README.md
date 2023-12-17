@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mpomar/StravaToTelegram">
-    <img src="https://schelp.de/media/902/catalog/sitzposition-basic.jpg" alt="Logo" width="80">
+    <img src="https://em-content.zobj.net/source/microsoft-teams/337/person-biking_1f6b4.png" alt="Logo" width="80">
   </a>
 
   <h3 align="center">Strava To Telegram</h3>
